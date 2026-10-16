@@ -3,9 +3,9 @@ WebGL Forward+ and Clustered Deferred Shading
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 4**
 
-* (TODO) YOUR NAME HERE
-* Tested on: (TODO) **Google Chrome 222.2** on
-  Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Ryan Morris
+* Tested on: **Google Chrome 154.0.8037.98** on
+  macOS 15.1, M4 Pro, 48GB memory
 
 ### Live Demo
 
@@ -16,6 +16,29 @@ WebGL Forward+ and Clustered Deferred Shading
 [![](img/video.mp4)](TODO)
 
 ### (TODO: Your README)
+
+Feature descriptions
+
+Forward+
+
+Clustered Deferred
+
+Comparison
+- Is one of them faster?
+- Is one of them better at certain types of workloads?
+- What are the benefits and tradeoffs of using one over the other?
+- Explanation of difference in performance
+
+Optimizations
+- Optimization
+  - Evidence from profiling tool
+  - Description
+  - Before and after render times
+
+
+
+
+
 
 *DO NOT* leave the README to the last minute! It is a crucial part of the
 project, and we will not be able to grade you without a good README.
