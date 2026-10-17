@@ -43,6 +43,8 @@ export const constants = {
     clusteringWorkgroupZ: 4
 };
 
+constants.lightRadius; // to fix issue with deploying on github pages
+
 // =================================
 
 function evalShaderRaw(raw: string) {
