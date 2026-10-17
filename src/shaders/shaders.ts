@@ -43,7 +43,7 @@ export const constants = {
     clusteringWorkgroupZ: 4
 };
 
-constants.lightRadius; // to fix issue with deploying on github pages
+(globalThis as any).shaderConstants = constants; // to fix issue with deploying on github pages
 
 // =================================
 
